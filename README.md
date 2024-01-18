@@ -1,2 +1,2 @@
 - 👋 Hi, I’m @Hmddev23 💻
-
+- 🌱 I’m a Software Engineering student at Alx-Africa.
